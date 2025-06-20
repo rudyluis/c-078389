@@ -9,7 +9,7 @@ const Index = () => {
       <div className="max-w-7xl mx-auto">
         <header className="mb-8">
           <h1 className="text-3xl font-bold mb-2">Crypto Dashboard</h1>
-          <p className="text-muted-foreground">Welcome back to your portfolio</p>
+          <p className="text-muted-foreground">Bienvenido a tu panel de control de tus criptomonedas</p>
         </header>
         
         <MarketStats />
